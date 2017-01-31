@@ -37,11 +37,11 @@ body {
 }
 
 @media screen and (min-width: 600px) { #navbar li {
-	width: 120px;
+	width: 700px;
 	border-bottom: none;
 	height: 50px;
 	line-height: 50px;
-	font-size: 1.4em;
+	font-size: 6.0em;
 }
 
 #center	{
