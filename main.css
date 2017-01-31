@@ -5,6 +5,16 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+#navbar ul {
+	list-style: none;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+#navbar li {
+	font-family: 'robonto', sans-serif;
+}
 
 #center	{
 	width: 700px;
