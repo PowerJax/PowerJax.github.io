@@ -1,11 +1,17 @@
+html { 
+  background: url("img/citypicture.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 #center	{
 	width: 700px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 80px;
-	background: url("img/citypicture.JPG") no-repeat center center fixed;
 	text-align: center;
-	-webkit-background-size: cover;
+	
 }
 .Powerjaxx {
 	font-family: 'robonto', sans-serif;
@@ -25,3 +31,4 @@
 	font-size: 35px;
 
 }	
+
