@@ -27,12 +27,13 @@ body {
 	font-family: 'robonto', sans-serif;
 	text-align: center;
 	font-size: 101px;
+	font-size: 5.9vw;
 	font-weight: 900;
 	letter-spacing: 15px;
 	text-shadow: 2px 2px #aaa;
 	color: #FFFCFC;
-	min-width: 260px;
-	max-width: 2000px;
+	min-width: auto;
+	max-width: auto;
 }
 
 
