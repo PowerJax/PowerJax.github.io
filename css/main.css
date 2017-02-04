@@ -31,6 +31,8 @@ body {
 	letter-spacing: 15px;
 	text-shadow: 2px 2px #aaa;
 	color: #FFFCFC;
+	min-width: auto;
+	max-width: auto;
 }
 
 
