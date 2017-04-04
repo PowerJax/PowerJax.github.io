@@ -7,7 +7,7 @@ body {
 	padding-left: 50px;
 	padding-right: 50px;
 	padding-top: 50px;
-	background-image:url(../img/sky.jpg); 
+	background-image:url(../img/sky.jpg);
 	background-origin: content-box;
 	background-repeat:no-repeat;
 	background-size: cover;
@@ -20,7 +20,7 @@ body {
 	margin-top: 60px;
 	margin-right: auto;
 	text-align: auto;
-	
+
 }
 .Powerjaxx {
 	font-family: 'robonto', sans-serif;
@@ -45,7 +45,7 @@ body {
 	font-size: 3.6vw;
 	color: #FFFCFC;
 	margin-bottom: 100px;
-}	
+}
 
 #about {
 	margin:
@@ -59,15 +59,15 @@ body {
 .social {
 	width: 100%;
 	margin-top: 50px;
-	
-	
-	
-	
-	
+
+
+
+
+
 }
 
 
-	
+
 #social {
 	font-family: 'robonto', sans-serif;
 	text-align: center;
@@ -88,7 +88,25 @@ body {
 }
 
 .twitch {
-	
+
+	margin-right: 1vw;
+	margin-left: 1vw;
+}
+
+.twitter {
+
+	margin-right: 1vw;
+	margin-left: 1vw;
+}
+
+.email {
+
+	margin-right: 1vw;
+	margin-left: 1vw;
+}
+
+.github {
+
 	margin-right: 1vw;
 	margin-left: 1vw;
 }
