@@ -52,7 +52,7 @@ body {
 	text-align: center;
 	text-shadow: 1px 1px #aaa;
 	font-size: 	15px;
-	font-size: 2.3vw;
+	font-size: 2.0vw;
 	color: #FFFCFC;
 	margin-bottom: 100px;
 	min-width: auto;
@@ -62,7 +62,7 @@ body {
 
 .logger {
 	font-size: 10px;
-	font-size: 2.0vw;
+	font-size: 1.8vw;
 
 }
 
@@ -104,6 +104,7 @@ body {
 
 #images {
 	text-align: center;
+	margin-top: 200px;
 }
 
 .twitch {
