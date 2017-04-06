@@ -137,7 +137,7 @@ a{
   }
  a:hover{
     text-decoration:none;
-		color: #e5e2e2;
+		color: #ccc9c9;
   }
 
 
@@ -152,5 +152,5 @@ a{
 	}
 	a:hover, a:active {
 		text-decoration: none;
-		color: #e5e2e2;
+		color: #ccc9c9;
 	}
