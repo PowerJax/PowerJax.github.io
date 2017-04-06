@@ -51,7 +51,7 @@ body {
 	font-family: 'robonto', sans-serif;
 	text-align: center;
 	text-shadow: 1px 1px #aaa;
-	font-size: 20px;
+	font-size: 	15px;
 	font-size: 2.3vw;
 	color: #FFFCFC;
 	margin-bottom: 100px;
@@ -61,7 +61,7 @@ body {
 }
 
 .logger {
-	font-size: 15px;
+	font-size: 10px;
 	font-size: 2.0vw;
 
 }
@@ -132,20 +132,24 @@ body {
 
 a{
     text-decoration: none;
-		color: none;
+		color: #FFFCFC;
   }
  a:hover{
     text-decoration:none;
+		color: #e5e2e2;
   }
 
 
 	a:visited {
 		text-decoration: none;
+		color: #FFFCFC;
 	}
 
 	a:focus {
 		text-decoration: none;
+
 	}
 	a:hover, a:active {
 		text-decoration: none;
+		color: #e5e2e2;
 	}
