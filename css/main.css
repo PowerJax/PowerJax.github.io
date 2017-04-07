@@ -30,6 +30,7 @@ body {
 	font-weight: 900;
 	letter-spacing: 15px;
 	text-shadow: 2px 2px #aaa;
+	text-shadow: 0.10509721492380451vw 0.10509721492380451vw #aaa;
 	color: #FFFCFC;
 	min-width: auto;
 	max-width: auto;
@@ -41,6 +42,7 @@ body {
 	font-family: 'robonto', sans-serif;
 	text-align: center;
 	text-shadow: 1px 1px #aaa;
+	text-shadow: 0.05254860746190226vw 0.05254860746190226vw #aaa;
 	font-size: 40px;
 	font-size: 3.6vw;
 	color: #FFFCFC;
