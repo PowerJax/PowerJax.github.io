@@ -23,7 +23,7 @@ body {
 
 }
 .Powerjaxx {
-	font-family: 'FontAwesome', sans-serif;
+	font-family: 'robonto', sans-serif;
 	text-align: center;
 	font-size: 101px;
 	font-size: 5.9vw;
@@ -40,7 +40,7 @@ body {
 
 
 .years {
-	font-family: 'FontAwesome', sans-serif;
+	font-family: 'robonto', sans-serif;
 	text-align: center;
 	text-shadow: 1px 1px #aaa;
 	text-shadow: 0.05254860746190226vw 0.05254860746190226vw #aaa;
@@ -51,7 +51,7 @@ body {
 }
 
 #projects {
-	font-family: 'FontAwesome', sans-serif;
+	font-family: 'robonto', sans-serif;
 	text-align: center;
 	text-shadow: 1px 1px #aaa;
 	font-size: 	15px;
@@ -91,7 +91,7 @@ body {
 
 
 #social {
-	font-family: 'FontAwesome', sans-serif;
+	font-family: 'robonto', sans-serif;
 	text-align: center;
 	font-size: 20px;
 	font-size: 1.9vw;
@@ -107,7 +107,7 @@ body {
 
 #images {
 	text-align: center;
-	margin-top: 450px;
+	margin-top: 200px;
 }
 
 .twitch {
