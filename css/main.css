@@ -23,7 +23,7 @@ body {
 
 }
 .Powerjaxx {
-	font-family: 'robonto', sans-serif;
+	font-family: 'FontAwesome', sans-serif;
 	text-align: center;
 	font-size: 101px;
 	font-size: 5.9vw;
@@ -40,7 +40,7 @@ body {
 
 
 .years {
-	font-family: 'robonto', sans-serif;
+	font-family: 'FontAwesome', sans-serif;
 	text-align: center;
 	text-shadow: 1px 1px #aaa;
 	text-shadow: 0.05254860746190226vw 0.05254860746190226vw #aaa;
@@ -51,7 +51,7 @@ body {
 }
 
 #projects {
-	font-family: 'robonto', sans-serif;
+	font-family: 'FontAwesome', sans-serif;
 	text-align: center;
 	text-shadow: 1px 1px #aaa;
 	font-size: 	15px;
@@ -91,7 +91,7 @@ body {
 
 
 #social {
-	font-family: 'robonto', sans-serif;
+	font-family: 'FontAwesome', sans-serif;
 	text-align: center;
 	font-size: 20px;
 	font-size: 1.9vw;
