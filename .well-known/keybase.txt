@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/powerjax
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://powerjax.me
+  * I am powerjax (https://keybase.io/powerjax) on keybase.
+  * I have a public key ASC7ZP6tpPbs6LCGpWUljbnBsg3OIIa3jNyzqZu1NMx6_go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ff34d930c9d79128da0a1cbd1bf821cdc24aac27e05cb538847a0bdf81d8a9d60a",
+      "host": "keybase.io",
+      "kid": "0120bb64feada4f6ece8b086a565258db9c1b20dce2086b78cdcb3a99bb534cc7afe0a",
+      "uid": "c94c2246980f2d983edf53428ba30819",
+      "username": "powerjax"
+    },
+    "merkle_root": {
+      "ctime": 1501083697,
+      "hash": "20f9c3b66d3bafd6b82f3ef64729973c733a4005eb3f26dfa29640ec9755056dad8ebbd38a44092efe7644974f7401177a60928da02c64b39b43b3c7c3f25b84",
+      "hash_meta": "8a4c5947117eebc8af7d5ca960f4df664a8a2c35d51016f9045bfdc474e1c773",
+      "seqno": 1282299
+    },
+    "service": {
+      "hostname": "powerjax.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.26"
+  },
+  "ctime": 1501083711,
+  "expire_in": 504576000,
+  "prev": "f95a801d40852e7318f29721b2dd6b54ec32c92f4d1f2d83e745822054d7f977",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgu2T+raT27OiwhqVlJY25wbINziCGt4zcs6mbtTTMev4Kp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZmYzNGQ5MzBjOWQ3OTEyOGRhMGExY2JkMWJmODIxY2RjMjRhYWMyN2UwNWNiNTM4ODQ3YTBiZGY4MWQ4YTlkNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmI2NGZlYWRhNGY2ZWNlOGIwODZhNTY1MjU4ZGI5YzFiMjBkY2UyMDg2Yjc4Y2RjYjNhOTliYjUzNGNjN2FmZTBhIiwidWlkIjoiYzk0YzIyNDY5ODBmMmQ5ODNlZGY1MzQyOGJhMzA4MTkiLCJ1c2VybmFtZSI6InBvd2VyamF4In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTAxMDgzNjk3LCJoYXNoIjoiMjBmOWMzYjY2ZDNiYWZkNmI4MmYzZWY2NDcyOTk3M2M3MzNhNDAwNWViM2YyNmRmYTI5NjQwZWM5NzU1MDU2ZGFkOGViYmQzOGE0NDA5MmVmZTc2NDQ5NzRmNzQwMTE3N2E2MDkyOGRhMDJjNjRiMzliNDNiM2M3YzNmMjViODQiLCJoYXNoX21ldGEiOiI4YTRjNTk0NzExN2VlYmM4YWY3ZDVjYTk2MGY0ZGY2NjRhOGEyYzM1ZDUxMDE2ZjkwNDViZmRjNDc0ZTFjNzczIiwic2Vxbm8iOjEyODIyOTl9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicG93ZXJqYXgubWUiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNiJ9LCJjdGltZSI6MTUwMTA4MzcxMSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJmOTVhODAxZDQwODUyZTczMThmMjk3MjFiMmRkNmI1NGVjMzJjOTJmNGQxZjJkODNlNzQ1ODIyMDU0ZDdmOTc3Iiwic2Vxbm8iOjIxLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQGGPGijcMCOKm/Lgt9hCiO9BbGEW3bEp7q9Abiq6X32FiMQpZywK22cuswTuYzlZ77Fw+xpcOhfpmoKHcXXJ6QOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAlzA3jciCTk0QL2fP/meu/2ZXc6x/K1l3VY+nfnzPcu6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/powerjax
+
+==================================================================
